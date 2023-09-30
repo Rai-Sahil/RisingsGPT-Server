@@ -25,7 +25,7 @@ load_env()
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 # gpt_model = "gpt-3.5-turbo"
 
-openai.api_key = os.getenv("API_KEY")
+openai.api_key = os.environ.get("OPEN_API")
 gpt_model = "gpt-4"
 # gpt_model = "gpt-3.5-turbo"
 
