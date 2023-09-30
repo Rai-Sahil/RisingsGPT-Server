@@ -24,11 +24,3 @@ Werkzeug==2.3.7
 yarl==1.9.2
 zipp==3.17.0
 
-# Entry point for the Flask application
-# This file should run the Flask app
-api_flask_server.py
-
-# Required Python packages
-requests==2.25.1
-flask==2.0.1
-
