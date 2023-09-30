@@ -17,6 +17,10 @@ jobs:
     steps:
       - name: Check virtual environment path
         run: echo $VIRTUAL_ENV
+
+      - name: List directory contents
+        run: ls -l /home/runner/work/test-py/test-py/venv
+
       - uses: actions/checkout@v2
 
       - name: Set up Python version
