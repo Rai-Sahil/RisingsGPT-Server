@@ -22,6 +22,11 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2  # Updated to setup-node@v2
+        with:
+          node-version: '16'  # Set Node.js version to 16
+
       - name: Create and start virtual environment
         run: |
           python -m venv venv
