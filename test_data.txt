@@ -1,0 +1,46 @@
+SAMPLE DATA
+essay_question =
+
+Genghis Khan with an F1 racer. George Washington with a SuperSoaker. Emperor Nero with a toaster. Leonardo da Vinci with a Furry. If you could give any historical figure any piece of technology, who and what would it be, and why do you think they’d work so well together?
+
+This prompt is ripe for humour-just look at the silly examples listed! This doesn’t mean, however, that you can’t take your response in a different direction. Maybe you’d like to give a historical figure a piece of technology to do good with or to prevent suffering. Perhaps you just really want to see Amber Einstein ride a hoverboard. Keep in mind that you answer should be about you in the end, even when you’re writing about other people. See how you can finesse your response to reveal more information about your interests, goals, and character trough a historical figure and their new piece of technology.
+
+
+personal_summary_points =
+
+1. i came from korea and study in Canada. I currently go to Centennial Secondary school.
+2. I dont like reading and writing essays because I am an ESL student. I hope to get out of ESL soon.
+3. I miss my hometown food because Vancouver does not have many Korean restaurants.
+4. I want to study engineering. I visited Boeing field in seattle and really liked airplanes there. I hope to become the worker there.
+5. On weekend, I play soccer in coquitlam team. I am a middle fielder position. My name appears sometimes on the newspaper.
+6. On Sunday, I am a soccer referee. I referee games for U13. I am registered in BC soccer referee association. I am a class C referee. 
+7. I also like everything about buses. Buses are big, so it has many buttons, so i like watching them. I know some Translink bus drivers. Sometimes, they show me each button on the bus. Articulated buses are my favorite one because I didnt see them in Korea. I think all buses are made by New Flyer.
+8. I want to go to US becuase US has more Koreans and weather is good. I want to study in warm place and eat many korean food easily.
+9. I wish my family came here with me. During holiday like Thanksgiving day, I am usually lonely. Nothing is open outside. I wish someone is with me during holidays. Now i cannot go back because I have to stay here and study English.
+
+answered_questions =
+
+1. Reflect on historical figures in your native Korea or global figures that you're passionate about due to their contribution to engineering or soccer (your interests). It will be more meaningful if you could link this historical figure to your personal experience. 
+1 ANSWER: I respect President Park in 1970s because he built highways and factories when Korea was very poor. Without him, I don’t think Korea will be as rich as now. Before him, many people starved and did not have money.
+
+2. Think about the types of technology that fascinate you. This could be related to engineering, airplanes, buses or maybe even soccer. How would you like this technology to have been used in the historical period of the figure you choose? 
+2 ANSWER: Airplane really fascinated me. It made people to move around the world freely. Without airplanes, I don’t think I could study aboard. Only workers from Asia came to America. They took ships for 1 month to come. Now with airplanes, I came to Vancouver in 12 hours.
+
+3. How can you relate your love for buses, especially your fascination for their mechanical parts, buttons, and articulated structure, to the piece of technology you would gift this historical figure? 
+3 ANSWER: He could benefit from diesel engine system. Korea needed a lot of heavy industry at that time and good diesel engine technology would benefit him since he did nto have to import expensive engines from Germany or US.
+
+4. Why do you think that particular piece of technology would work so well with your selected historical figure? What positive implication would this technology have if your chosen historical figure had access to it? Would they cause a huge leap in technical progress, would it change the course of a war, or perhaps improve the quality of life? 
+4 ANSWER: This would made Korea very strong nation for industrial cars. Korea is good for passenger cars, but not with heavy equipment. It is because Korea did not start car industry with heavy industry in mind. Even now, many trucks and equipment use Germany made equipment.
+
+5. Is there a humorous or thought-provoking incident that happened during your study or soccer game that you could
+connect with the historical figure’s scenario?
+5 Answer: I don’t thnk anything like this
+
+6. How would you connect this implication to your personal ambitions and goals? For example, if the goal is to use technology to make large vehicles like buses and airplanes more efficient and environmentally friendly, how does this resonate with your own journey? 
+6 ANSWER: He changed entire Korea. He worked days and nights to change Korea. I really want to live like him. I want to also work hard and get a job in America. Hard work will pay off, so I want to work hard and this has always been my life principle.
+
+7. How can you link your own challenges and strengths with those of the historical figure and the added technology? Can your struggle with developing English language skills and working to come out of your ESL program, be linked to the chosen historical figure’s own struggles or challenges?
+7 ANSWER: Everyone says that graduating ontime for me is impossible because my English was not good. However, I worked very hard. I did not go back to Korea for 2 years to study English. I took night classes. Now, I can graduate ontime and apply for good universities. Like President Park, I worked very hard. I gave up many things to make my dream. He changed Korea’s future. I also will change my future.
+
+8. What instances in history have really moved you, or that you feel could have been drastically changed with the intervention of a particular piece of modern technology? 
+8 ANSWER: Boeing 747 is technology that has changed me. Double decker airplane is really amazing. How can human invent such big airplane that can fly across the world. Without Boeing 747, traveling to different country is impossible. It has so many buttons and monitors, but everything is all controlled well. I really wanted to see how people build big machines like Boeing 747, so I really want to study engineering and see how people make big machines like Boeing 747.

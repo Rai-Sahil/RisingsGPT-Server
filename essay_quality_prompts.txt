@@ -1,0 +1,98 @@
+### 8_quality_user
+
+Your task is to transform the provided essay, which is of exemplary quality (10/10), to a still respectable but slightly lesser quality (8/10). Here are the detailed guidelines for this transformation:
+
+1) Language and Vocabulary:
+- The original essay uses top-tier vocabulary and phrasing. Please replace some of the more sophisticated words with simpler synonyms. Do not oversimplify, but aim for a more accessible language level.
+- Adjust sentence structures. Where there are compound-complex sentences, consider breaking them into two or even simplifying some of their elements.
+
+2) Concepts and Ideas:
+- The essay may introduce advanced or intricate ideas that require a high level of prior knowledge or intellectual engagement. Make these ideas slightly more straightforward. You can do this by omitting a layer of complexity or providing a more generalized statement in place of a nuanced one.
+- If the essay uses metaphors or analogies, consider replacing a few of them with more direct explanations or more common metaphors.
+
+3) Structural and Rhetorical Elements:
+- If the essay has a particularly unique or avant-garde structure, make it more conventional. This means ensuring a clear introduction, body, and conclusion without too many deviations.
+- Rhetorical devices such as antithesis, asyndeton, or chiasmus, while impressive, should be used sparingly. Replace some instances with simpler rhetorical devices or direct statements.
+
+4) Evidence and Support:
+- While the original essay might employ a diverse range of sources or types of evidence, limit this slightly. Instead of three examples to prove a point, maybe use two.
+- If there are quotations from niche or highly specialized sources, consider replacing a few with more general or widely recognized sources.
+
+5) Maintain Core Message and Length:
+- Throughout this transformation, ensure that the central thesis or primary argument of the essay remains intact. We want the essence of the essay to be preserved, just delivered in a slightly less polished manner.
+- Aim to retain the general length of the essay. If you remove content, try to replace it with something else, even if that's a simpler explanation or example.
+
+Once you have made these adjustments, review the transformed essay to ensure it reads as a cohesive and coherent piece, albeit at an 8/10 quality level. It is also vital that it maintains the word-length of the original essay.
+
+
+### 8_quality_assistant
+
+Understood! Please provide the original essay, and I'll apply the guidelines you've provided to transform it from a 10/10 quality level to an 8/10 quality level. And I will be certain to maintain the original essay length.
+
+
+
+### 7_quality_user
+
+Your task is to modify the provided essay, which is currently of exceptional quality (10/10), to a moderately good quality (7/10). The following guidelines will direct you in this transformation:
+
+1) Language and Vocabulary:
+- The original essay is characterized by superior vocabulary and eloquent phrasing. Alter some of these words to simpler alternatives, ensuring that the language becomes more common and less academic.
+- The essay may employ sophisticated sentence constructions; try to simplify them. For compound-complex sentences, consider breaking or reducing their complexity.
+
+2) Concepts and Ideas:
+- The original might weave advanced, nuanced ideas. Streamline these by omitting some intricacies or by offering a broader, less detailed perspective.
+- Where metaphors or analogies are used, either provide a direct explanation, replace them with simpler metaphors, or remove some of them without replacement.
+
+3) Structural and Rhetorical Elements:
+- If the essay's structure is especially distinct or refined, adapt it to be more mainstream. Ensure there's a straightforward introduction, body, and conclusion.
+- The essay's rhetorical brilliance, such as the use of antithesis, alliteration, or parallelism, should be reduced. Opt for more straightforward statements or common rhetorical devices.
+
+4) Evidence and Support:
+- The original might utilize varied sources or multi-faceted evidence. Limit this diversity. For instance, if a point is illustrated with three supporting evidences, cut down to just one.
+- Replace niche or highly specialized quotations with generalized statements or more common sources. If the original essay makes use of statistics or research, consider simplifying the data or even removing a few references.
+
+5) Maintain Core Message and Length:
+- The core message or primary argument of the essay should remain intact. However, its delivery can be less rigorous or in-depth than in the original.
+- While modifying the content, ensure that the final essay remains the same length as the original. If you remove or simplify certain sections, expand upon other areas, use additional examples, or provide background information to compensate for the removed content, ensuring the overall word count remains unchanged.
+
+After these modifications, ensure the essay still maintains a logical flow and coherence, reflecting the characteristics of a 7/10 quality piece.
+
+
+### 7_quality_assistant
+
+Understood! Please provide the original essay, and I'll apply the guidelines you've provided to transform it from a 10/10 quality level to a 7/10 quality level. And I will be certain to maintain the original essay length.
+
+
+### 5_quality_user
+
+Your task is to modify the provided essay, which is currently of exceptional quality (10/10), to an average quality (5/10). To achieve this transformation, consider the following guidelines:
+
+1) Language and Vocabulary:
+- The original essay likely utilizes rich vocabulary and eloquent phrasing. For this task, replace many of these advanced words with simpler, everyday alternatives. Some nuanced terms can even be replaced with vague or generic terms.
+- Sentences in the original might be sophisticated or artfully constructed. Simplify them substantially. Break down compound-complex sentences into basic and shorter ones.
+
+
+2) Concepts and Ideas:
+- Where the essay delves deep into advanced ideas or concepts, make these more surface-level. Remove or reduce discussions of theoretical or abstract concepts.
+- Replace or omit intricate metaphors or analogies with very straightforward statements.
+
+
+3) Structural and Rhetorical Elements:
+- If the original essay has a refined structure, simplify it. Aim for a basic introduction-body-conclusion format without the intricacies often found in higher-level essays.
+- Tone down any advanced rhetorical techniques. Avoid techniques like antithesis, alliteration, or parallelism, and aim for simple, straightforward statements.
+
+
+4) Evidence and Support:
+- The original might use a plethora of sources, evidence, or examples. Reduce this drastically. Some points might now stand without direct evidence or with just a cursory mention.
+- Highly specific quotations or niche references should be replaced with broad generalizations or removed altogether.
+
+5) Maintain Core Message and Length:
+- The essence or main point of the essay should be kept. However, aim for a much less nuanced and simplified conveyance of this core message.
+- While modifying the content, ensure the final essay maintains the same length as the original. If dense content is removed, compensate by elaborating on simpler points, repeating certain ideas, or providing very basic background information to fill space.
+
+Following these steps should yield an essay that is coherent but considerably less sophisticated, reflecting the characteristics of a 5/10 quality piece.
+
+
+### 5_quality_assistant
+
+Understood! Please provide the original essay, and I'll apply the guidelines you've provided to transform it from a 10/10 quality level to a 5/10 quality level. And I will be certain to maintain the original essay length.

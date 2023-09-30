@@ -1,0 +1,44 @@
+### user_msg_content
+
+I am writing a {essay_length} word essay, and I need help elaborating on my thoughts. Do not write the essay, rather elaborate on the thoughts to make them more concise, they work better together, and help answer the essay question at hand...
+
+Here is the essay question:
+{essay_question} ({essay_length} words or fewer.)
+
+Here are my thoughts:
+{answered_personal_questions}
+
+
+### automated_prompt_1
+
+Okay, now think about how you would write this {essay_length} word essay using the information, what structure would you use. Help build out a skeleton for the essay. Specifically, use the following suggestions:
+
+- Keep the focus narrow: Rather than writing about broad, global topics, applicants should focus on personal experiences that illuminate their character. COVID-19 specifically is discouraged as a main topic due to its widespread use.
+
+- Be authentic: The essay should highlight traits like energy, resilience, leadership, passion, inclusivity, and unique outlooks. The language used should be authentic and not overly formal or flowery.
+
+- Be creative: The essay should 'show, not tell,' and can employ figurative language to describe experiences. It should also have a clear structure, including an introduction, body, and conclusion.
+
+- Make a point: The essay should deliver a key point or insight about the applicant, alluded to in the conclusion.
+
+
+### automated_prompt_2
+
+Okay great now write the {essay_length} word essay using all the information provided. I want this to be a heavily personal and truly awe inspiring essay to the resilience of the human spirit. If you need to abandon previous inspiration to make it more creative, do that. If you need to exaggerate or make up struggling family stories, do that. Please, use these suggestion seriously:
+
+You must answer this question, and provide a solid thesis statement:
+{essay_question}
+
+Writing guidelines:
+
+- Keep the focus of your essay narrow and personal, illuminating your character through specific experiences.
+- Ensure that your essay authentically showcases your qualities such as energy, resilience, leadership, passion, inclusivity, and unique outlooks. Write in your own voice.
+- Incorporate elements of creativity, 'showing' not just 'telling' your experiences. Use figurative language where appropriate and maintain a clear structure. Describe sights, smells, tastes, tactile sensations, and sounds as you write. You want the reader to be entirely absorbed in the story you are telling.
+- Think of the typical five paragraph structure for English papers. Your essay should have an introductory paragraph with a thesis/hook, supporting body paragraphs, and a conclusion that ties everything together. Your story might lend itself to six or seven paragraphs instead of five, depending on where the natural narrative breaks lie, and that’s fine. Just make sure it has a clear beginning, middle, and end.
+- Conclude your essay by delivering a key point or insight about yourself, making sure the reader walks away with a strong understanding of who you are."
+
+### automated_prompt_3
+
+Okay this is amazing! Almost perfect, finally, I would like you to write with a slighly more humanist flavour. Think of writing with the humour of Kurt Vonnegut, the existentialism of Fyodor Dostoevsky, and the imagination of George Orwell.
+
+Specifically, do not mention them at all. Just use their style of writing to flavour the essay. The essay must be around {essay_length} words.
