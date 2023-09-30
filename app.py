@@ -11,21 +11,8 @@ from api_call_2_answer_elaboration import gpt_response_2_answer_elaboration
 from api_call_3_essay_generation import gpt_response_3_essay_generation
 from api_call_4_modify_essay_quality import gpt_response_4_essay_modification
 
-
-def load_env(file_path='.env'):
-    try:
-        with open(file_path, 'r') as file:
-            for line in file:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    key, value = line.split('=', 1)
-                    os.environ[key] = value
-    except FileNotFoundError:
-        pass  # .env file not found, continue without loading environment variables
-
-
 # Load environment variables from .env file
-load_env()
+load_dotenv()
 
 # Set OpenAI API key
 openai.api_key = os.environ.get("OPEN_API")
