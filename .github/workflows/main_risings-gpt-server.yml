@@ -35,9 +35,6 @@ jobs:
 
       - name: Print current directory
         run: pwd
-
-      - name: List directory contents before creating venv
-        run: ls -l venv
       
       - name: Create and start virtual environment
         run: |
