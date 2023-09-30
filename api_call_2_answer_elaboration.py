@@ -2,20 +2,8 @@ import os
 import openai
 from dotenv import load_dotenv
 
-def load_env(file_path='.env'):
-    try:
-        with open(file_path, 'r') as file:
-            for line in file:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    key, value = line.split('=', 1)
-                    os.environ[key] = value
-    except FileNotFoundError:
-        pass  # .env file not found, continue without loading environment variables
-
-
 # Load environment variables from .env file
-load_env()
+load_dotenv()
 
 # Set your OpenAI API key
 # Set GPT model
